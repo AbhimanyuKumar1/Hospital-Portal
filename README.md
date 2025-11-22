@@ -4,34 +4,34 @@ A responsive and user-friendly hospital website built using HTML, CSS, and JavaS
 
 🌟 Features
 
-🏠 Homepage
+🏠 Homepage:-
 - Clean, modern, and professional design
 - Hero section with hospital introduction
 -Quick navigation to key sections
 
-🩺 Departments Section
+🩺 Departments Section:-
 - List of major medical departments
--Icons and short descriptions
+- Icons and short descriptions
 
-👨‍⚕️ Doctors Section
--Doctor profiles with specialization
--Contact/info buttons
+👨‍⚕️ Doctors Section :-
+- Doctor profiles with specialization
+- Contact/info buttons
 
-📅 Appointment Form
--Simple appointment request form
--Client-side JavaScript validation
+📅 Appointment Form :-
+- Simple appointment request form
+- Client-side JavaScript validation
 
-ℹ️ About Us
+ℹ️ About Us :-
 Mission, vision, and hospital overview
 
-📞 Contact Section
--Contact form
--Location, phone, and email
+📞 Contact Section :-
+- Contact form
+- Location, phone, and email
 
-📱 Fully Responsive Design
-Works on mobile, tablet, and desktop
+📱 Fully Responsive Design :-
+  Works on mobile, tablet, and desktop
 
-🛠️ Technologies Used
+🛠️ Technologies Used :-
 HTML5 – Structure
 CSS3 – Styling, layout, responsiveness
 JavaScript – Form validation, interactions, animations
@@ -48,12 +48,12 @@ Hospital-Website/
 │── /images
 │── README.md
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome.
+🤝 Contributing - 
+  Contributions, issues, and feature requests are welcome.
 
-📜 License
-This project is licensed under the MIT License.
+📜 License - 
+  This project is licensed under the MIT License.
 
-👨‍💻 Author
+👨‍💻 Author :-
 Abhimanyu Kumar
 GitHub: AbhimanyuKumar1
